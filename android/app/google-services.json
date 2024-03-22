@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917348530341",
+    "project_id": "restaurant-b19b1",
+    "storage_bucket": "restaurant-b19b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917348530341:android:ebfd4fadc802af07af754c",
+        "android_client_info": {
+          "package_name": "com.johonbar.restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUnB0-RxG-SSLt8bniAVIwTpOm0qtMUwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

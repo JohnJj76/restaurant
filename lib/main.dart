@@ -53,10 +53,8 @@ class MyApp extends StatelessWidget {
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  //
   await Hive.initFlutter();
   var box = await Hive.openBox('miBox');
-  //
 
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
